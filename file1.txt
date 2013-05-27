@@ -1,0 +1,10 @@
+<!DOCTYPE>
+<html>
+<head>
+	<tittle>sample</title>
+</head>
+<body>
+	Qwerty...
+</body>
+</head>
+</html>
