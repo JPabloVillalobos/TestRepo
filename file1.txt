@@ -1,10 +1,7 @@
 <!DOCTYPE>
 <html>
-<head>
-	<tittle>sample</title>
-</head>
 <body>
-	Qwerty...
+	asdfg...
 </body>
 </head>
 </html>
